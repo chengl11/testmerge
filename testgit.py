@@ -1,6 +1,6 @@
 def helloworld():
     print("hello world")
-    print("master modified")
+    print("maste2r modified")
 
 def main():
     helloworld()
