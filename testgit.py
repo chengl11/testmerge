@@ -1,6 +1,8 @@
 def helloworld():
     print("hello world")
-    print("2 modified")
+    print("hello world")
+    print("5 modified")
+    print("hello world")
 
 def main():
     helloworld()
